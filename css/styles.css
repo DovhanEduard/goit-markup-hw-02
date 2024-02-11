@@ -13,9 +13,6 @@ button {
   cursor: pointer;
 }
 
-img {
-  display: block;
-}
 address {
   font-style: normal;
 }
@@ -50,15 +47,10 @@ body {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #2e2f42;
-}
-
-.accent-color {
-  font-size: 18px;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
   color: #4d5ae5;
+}
+.accent-color {
+  color: #2e2f42;
 }
 .menu-link {
   font-weight: 500;
@@ -89,7 +81,7 @@ body {
 
 /* ============= Hero section styles ============= */
 .hero-section {
-  background: #2e2f42;
+  background-color: #2e2f42;
 }
 .hero-title {
   font-size: 56px;
@@ -138,6 +130,9 @@ body {
 }
 .team-list-text {
   text-align: center;
+}
+.team-list-item {
+  background-color: #ffffff;
 }
 /* ============= /Team section styles ============= */
 
