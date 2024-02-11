@@ -97,12 +97,12 @@ body {
   letter-spacing: 0.04em;
   color: #fff;
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-  background: #4d5ae5;
+  background-color: #4d5ae5;
 }
 
 .order-service-btn:hover,
 .order-service-btn:focus {
-  background: #404bbf;
+  background-color: #404bbf;
 }
 /* ============= /Hero section  styles ============= */
 
@@ -151,11 +151,8 @@ body {
 .page-footer {
   background-color: #2e2f42;
 }
-.accent-color-footer {
-  color: #f4f4fd;
-}
 
-.footer-text {
+.accent-color-footer {
   color: #f4f4fd;
 }
 /* ============= /Footer section styles ============= */
